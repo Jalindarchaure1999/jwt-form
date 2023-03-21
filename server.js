@@ -8,7 +8,7 @@ const jwt = require('jsonwebtoken')
 
 const JWT_SECRET = 'sdjkfh8923yhjdksbfma@#*(&@*!^#&@bhjb2qiuhesdbhjdsfg839ujkdhfjk'
 
-mongoose.connect('mongodb+srv://saurabhp2001:Srp@14321@cluster0.ixtpsub.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://3sfrees:<password>@cluster0.o3qdqqd.mongodb.net/?retryWrites=true&w=majority', {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
 	useCreateIndex: true
